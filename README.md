@@ -1,6 +1,9 @@
 ### Hello World! 👋
-My name is Ana Carolina, I'm 27 years old, I'm from Rio de Janeiro, Brazil 🇧🇷 and I recently joined a Web Development course. I am in a career transition, having a degree in Environmental Science and a postgraduate degree in the same area. :deciduous_tree:
-After having contact with some programming languages in college, I got interested in the IT area, and I chose to be a web dev because I like the interdisciplinarity aspect of it and also the application of programming in different types of sites. The demand for professionals in the sector also attracted me to take this course.
+My name is Ana Carolina, I'm 27 years old, I'm from Rio de Janeiro, Brazil (🇧🇷) and I recently joined a Web Development course. 
+
+I am in a career transition, having a degree in Environmental Science and a postgraduate degree in the same area. :deciduous_tree:
+
+After having contact with some programming languages in college, I got interested in the IT area, and I chose to be a Web Dev because I like the interdisciplinarity aspect of it and also the application of programming in different types of sites. The demand for professionals in the sector also attracted me to take this course.
 
 :bulb: I'm currently learning HTML, CSS and Javascript. Also, the first part of the course is focused on the Front-end part. 
 
@@ -8,6 +11,8 @@ After having contact with some programming languages in college, I got intereste
 
 :computer: You can reach me in acluztp@gmail.com and my linkedin is
 https://www.linkedin.com/in/ana-carolina-luz-2b7099b3/
+
+See ya and have a wonderful day/night 🌆
 
 <!--
 **Anadev-saga/Anadev-saga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
