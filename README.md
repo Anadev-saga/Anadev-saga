@@ -10,7 +10,7 @@ After having contact with some programming languages in college, I got intereste
 :paw_prints: I'm looking for help with project ideas to begin practicing. 
 
 :computer: You can reach me in acluztp@gmail.com and my linkedin is
-https://www.linkedin.com/in/ana-carolina-luz-2b7099b3/
+https://www.linkedin.com/in/ana-carolina-nogueira-luz/
 
 See ya and have a wonderful day/night 🌆
 
