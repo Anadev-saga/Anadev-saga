@@ -1,5 +1,5 @@
 ### Hello World! 👋
-My name is Ana Carolina, I'm 27 years old, I'm from Rio de Janeiro, Brazil (🇧🇷) and I recently joined a Web Development course. 
+I'm from Rio de Janeiro, Brazil and I recently joined a Web Development course. 
 
 I am in a career transition, having a degree in Environmental Science and a postgraduate degree in the same area. :deciduous_tree:
 
@@ -12,7 +12,7 @@ After having contact with some programming languages in college, I got intereste
 <a href = "mailto:acluztp@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/ana-carol-luz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-See ya and have a wonderful day/night 🌆
+Have a wonderful day/night 🌆
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
