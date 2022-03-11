@@ -11,9 +11,14 @@ After having contact with some programming languages in college, I got intereste
 
 :computer: You can reach me in acluztp@gmail.com or
 [![Linkedin Badge](https://img.shields.io/badge/-Ana%20Carolina%20Luz-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https:/https://www.linkedin.com/in/ana-carol-luz/)](https://www.linkedin.com/in/ana-carol-luz/) 
+
 See ya and have a wonderful day/night 🌆
 
-<img src="{https://github-readme-stats.vercel.app/api/top-langs/?username={Anadev-saga}}" />
+<div align="center">
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anadev-saga&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anadev-saga&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 <!--
 **Anadev-saga/Anadev-saga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
