@@ -9,17 +9,33 @@ After having contact with some programming languages in college, I got intereste
 
 :paw_prints: I'm looking for help with project ideas to begin practicing. 
 
-:computer: You can reach me in acluztp@gmail.com or
-[![Linkedin Badge](https://img.shields.io/badge/-Ana%20Carolina%20Luz-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https:/https://www.linkedin.com/in/ana-carol-luz/)](https://www.linkedin.com/in/ana-carol-luz/) 
+<a href = "mailto:acluztp@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/ana-carol-luz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+<div>
+<img align="center" alt="Ana-pic" height="150" style="border-radius:50px;" src="https://drive.google.com/file/d/1JYif27cw5vPOY0YgV8iV4ju9G-PPBZ0b/view?usp=sharing.png?width=676&height=676">
+</div>
+
+
+
+
+
+
 
 See ya and have a wonderful day/night 🌆
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anadev-saga&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anadev-saga&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anadev-saga&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anadev-saga&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
-
+  
+ <div align="center" style="display: inline_block"><br>
+  <img align="center" alt="Ana-Js" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Ana-HTML" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Ana-CSS" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Ana-React" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  </div>
 <!--
 **Anadev-saga/Anadev-saga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
