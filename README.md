@@ -9,8 +9,8 @@ After having contact with some programming languages in college, I got intereste
 
 :paw_prints: I'm looking for help with project ideas to begin practicing. 
 
-:computer: You can reach me in acluztp@gmail.com and my linkedin is
-https://www.linkedin.com/in/ana-carol-luz/
+:computer: You can reach me in acluztp@gmail.com or
+[![Linkedin Badge](https://img.shields.io/badge/-Diego%20Fernandes-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https:/https://www.linkedin.com/in/ana-carol-luz/)](https://www.linkedin.com/in/ana-carol-luz/) 
 See ya and have a wonderful day/night 🌆
 
 <img src="{https://github-readme-stats.vercel.app/api/top-langs/?username={Anadev-saga}}" />
