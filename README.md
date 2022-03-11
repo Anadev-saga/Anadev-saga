@@ -13,6 +13,8 @@ After having contact with some programming languages in college, I got intereste
 https://www.linkedin.com/in/ana-carol-luz/
 See ya and have a wonderful day/night 🌆
 
+<img src="{https://github-readme-stats.vercel.app/api/top-langs/?username={Anadev-saga}}" />
+
 <!--
 **Anadev-saga/Anadev-saga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
