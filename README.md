@@ -12,16 +12,6 @@ After having contact with some programming languages in college, I got intereste
 <a href = "mailto:acluztp@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/ana-carol-luz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-<div>
-<img align="center" alt="Ana-pic" height="150" style="border-radius:50px;" src="https://drive.google.com/file/d/1JYif27cw5vPOY0YgV8iV4ju9G-PPBZ0b/view?usp=sharing.png?width=676&height=676">
-</div>
-
-
-
-
-
-
-
 See ya and have a wonderful day/night 🌆
 
 <div align="center">
