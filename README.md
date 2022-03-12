@@ -1,5 +1,5 @@
 ### Hello World! 👋
-I'm from Rio de Janeiro, Brazil and I recently joined a Web Development course. 
+I'm a girl from Rio de Janeiro, Brazil and I recently joined a Web Development course. 
 
 I am in a career transition, having a degree in Environmental Science and a postgraduate degree in the same area. :deciduous_tree:
 
