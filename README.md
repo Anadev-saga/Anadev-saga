@@ -1,4 +1,5 @@
-### Hello World! 👋
+###
+<h1 align="center"> Hello World! 👋 </h1>
 I'm a girl from Rio de Janeiro, Brazil and I recently joined a Web Development course. 
 
 I am in a career transition, having a degree in Environmental Science and a postgraduate degree in the same area. :deciduous_tree:
@@ -9,8 +10,12 @@ After having contact with some programming languages in college, I got intereste
 
 :paw_prints: I'm looking for help with project ideas to begin practicing. 
 
+<div align="center">
+Contact me:
+
 <a href = "mailto:acluztp@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/ana-carol-luz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
 
 Have a wonderful day/night 🌆
 
@@ -25,6 +30,10 @@ Have a wonderful day/night 🌆
   <img align="center" alt="Ana-HTML" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ana-CSS" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ana-React" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  </div>
+  
+ <div align="center" style="display: inline_block"><br>
+<img align="center" src="https://live.staticflickr.com/65535/51934788829_1c39528461_m.jpg">
   </div>
 <!--
 **Anadev-saga/Anadev-saga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
