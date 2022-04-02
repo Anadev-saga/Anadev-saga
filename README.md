@@ -1,12 +1,10 @@
 ###
 <h1 align="center"> Hello World! 👋 </h1>
-I'm a girl from Rio de Janeiro, Brazil and I recently joined a Web Development course. 
-
-I am in a career transition, having a degree in Environmental Science and a postgraduate degree in the same area. :deciduous_tree:
+I'm from Rio de Janeiro, Brazil and I recently joined a Web Development course. 
 
 After having contact with some programming languages in college, I got interested in the IT area, and I chose to be a Web Dev because I like the interdisciplinarity aspect of it and also the application of programming in different types of sites. The demand for professionals in the sector also attracted me to take this course.
 
-:bulb: I'm currently learning HTML, CSS and Javascript. Also, the first part of the course is focused on the Front-end part. 
+:bulb: I'm currently learning React. The first part of the course is focused on the Front-end part. 
 
 :paw_prints: I'm looking for help with project ideas to begin practicing. 
 
